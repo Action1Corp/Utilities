@@ -7,6 +7,7 @@ Path and filename to output file as second argument, appends '.exe' automaticall
 
 Example: 
 
-make <patch to code file> <path and name of output file>
+make <path to code file> <path and name of output file>
+
 
 make "c:\...\source.cs" "c:\...\path\Action1_Remote_Indicator"
